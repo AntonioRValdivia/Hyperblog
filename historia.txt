@@ -3,3 +3,5 @@ Esta es la historia de Antonio Valdivia
 Antonio tiene 25 años y nació en México
 
 Mañana nos enfocaremos en su vida laboral
+
+Quiero contribuir en un proyecto open source
